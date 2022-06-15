@@ -1,0 +1,22 @@
+.date-select {
+  margin-top: 130px;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+td {
+  border: 1px dashed rgb(218, 218, 218);
+  height: 113px;
+  vertical-align: unset;
+}
+table {
+  width: 100%;
+}
+.weekdays {
+  font-size: 1.2rem;
+  color: rgb(29, 27, 27);
+}
+.weekend {
+  visibility: hidden;
+}

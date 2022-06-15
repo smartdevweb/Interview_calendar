@@ -1,0 +1,13 @@
+.create-btn {
+  justify-content: space-between;
+  border-radius: 20px;
+  background-color: #d4d8f8;
+  font-size: 20px;
+  box-shadow: 5px 5px 10px 3px rgba(168, 153, 223, 0.6);
+  text-align: center;
+  align-items: center;
+  display: flex;
+  padding: 4px 0;
+  margin: 20px 0;
+  width: 90%;
+}

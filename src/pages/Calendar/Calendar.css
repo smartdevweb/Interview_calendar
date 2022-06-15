@@ -1,0 +1,24 @@
+.div-NFT {
+  margin-top: 160px;
+  margin-left: 12px;
+}
+.page-title {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.langselector button > span > span:first-child {
+  clip-path: circle(30%);
+  transform: scale(2);
+}
+
+.langselector button {
+  color: #616e83;
+  transform: scale(1.2);
+}
+.schedule-container {
+  position: relative;
+  justify-content: space-between;
+}

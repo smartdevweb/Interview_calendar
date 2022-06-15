@@ -1,0 +1,17 @@
+.filter-container {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+.filter-title {
+  margin: 5px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+}

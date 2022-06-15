@@ -1,0 +1,11 @@
+.dot {
+  display: inherit;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.my-checkbox {
+  margin: 0 10px;
+  transform: scale(1.3);
+}

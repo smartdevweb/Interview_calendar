@@ -1,0 +1,48 @@
+.sidebar {
+  min-width: 7%;
+  user-select: none;
+  background-color: white;
+  align-items: center;
+  font-size: 22px;
+}
+.sidebar-linklist {
+  height: 30%;
+  margin-top: 70px;
+}
+.sidebar-link {
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 15px 10px;
+  color: rgb(145, 141, 141);
+}
+.sidebar-linklist .sidebar-link:nth-child(2) svg path {
+  fill: #9c9a9a;
+}
+
+.sidebar-link-selected {
+  color: rgb(231, 46, 123);
+}
+
+.sidebar-menu {
+  cursor: pointer;
+  padding: 5px 20px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(145, 141, 141);
+}
+.company_license {
+  color: rgb(145, 141, 141);
+  font-size: 16px;
+}
+.sidebar-menu-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.logo {
+  margin-top: 15px;
+  height: 40px;
+}
